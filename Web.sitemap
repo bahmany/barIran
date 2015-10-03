@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="~/login.aspx" title="ورود به سیستم"  description="ورود به سیستم">
+        <siteMapNode url="~/default.aspx" title="ورود اطلاعات"  description="در این قسمت ورود مورد نظر را وارد می کنید" >
+          <siteMapNode url="~/frm_haghighi.aspx" title="ورود اطلاعات فعالین حقیقی"  description="" />
+          <siteMapNode url="~/frm_hoghoghi.aspx" title="ورود اطلاعات فعالین حقوقی"  description="" />
+          <siteMapNode url="~/frm_cars.aspx" title="ورود اطلاعات وسائط نقلیه"  description="" />
+          <siteMapNode url="~/loader.aspx" title="ورود اطلاعات راننده ها"  description="" />
+        </siteMapNode>
+    </siteMapNode>
+</siteMap>
